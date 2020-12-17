@@ -4,4 +4,4 @@ npm install
 
 npm run build
 
-docker . -t build starwarsappdocker
+docker . -t build star-wars-server
