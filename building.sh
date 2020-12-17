@@ -4,4 +4,4 @@ npm i
 echo "2/3"
 npm run build
 echo "3/3"
-docker . -t build star-wars-server
+docker build . -t star-wars-server
